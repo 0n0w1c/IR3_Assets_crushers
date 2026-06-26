@@ -1,0 +1,13 @@
+{
+    "name": "IR3_Assets_crushers",
+    "version": "0.0.1",
+    "title": "IR3 Assets: crushers",
+    "author": "0n0w1c",
+    "description": "Adds crusher and mixer machines, or reskins Crushing Industry.\nRequires the manual installation of the Industrial Revolution 3 Asset Packs.",
+    "factorio_version": "2.1",
+    "dependencies": [
+        "base >= 2.1",
+        "IR3_Assets_some_assembly_required >= 0.2.0",
+        "? crushing-industry"
+    ]
+}
