@@ -15,10 +15,12 @@ This mod does not supply crushing or mixing recipes but will add:
   - `basic-crushing`
   - `basic-crushing-or-crafting`
   - `basic-crushing-or-hand-crafting`
+
 `big-crusher`
   - `basic-crushing`
   - `basic-crushing-or-crafting`
   - `basic-crushing-or-hand-crafting`
+
 `mixer`
   - `mixing-with-fluid`
 
