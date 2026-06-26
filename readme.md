@@ -17,7 +17,7 @@ This mod does not supply crushing or mixing recipes but will add:
 
 ---
 
-Created by **Deadlock989**, licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Graphics by **Deadlock989**, licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 Due to the licensing restrictions, the IR3 Assets can not be repackaged for Factorio 2.0.  
 However, users have full permissions to make the necessary modifications themselves.  
