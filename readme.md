@@ -1,15 +1,6 @@
-#### IR3 Assets: crushers
-
-Adds crushers and optionally a mixer machine.
-Or it will reskin [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) if active.
-
-*Requires the manual installation of the Industrial Revolution 3 Asset Packs.*
- 
----
-
 This mod does not supply crushing or mixing recipes but will add:
 
-## Recipe categories
+#### Recipe categories
 
 `electric-crusher`
   - `basic-crushing`
